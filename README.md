@@ -2,4 +2,4 @@
 
 ##### -Shubham Patel
 
-Kindly refer to README.pdf and REPORT.pdf for moare details and analysis.
+Kindly refer to README.pdf and REPORT.pdf for more details and analysis.
